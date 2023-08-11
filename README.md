@@ -38,7 +38,11 @@
 </div>
 
 ####  Social networks
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Motoroller89) [<img src='https://cdn-icons-png.flaticon.com/512/2111/2111710.png' alt='instagram' height='40'>](https://t.me/diachylum)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Motoroller89) [<img src='https://cdn-icons-png.flaticon.com/512/2111/2111710.png' alt='instagram' height='40'>](https://t.me/diachylum) [<img alt="daniel-garayan | LinkedIn" height='40' src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Linkedin.svg/1200px-Linkedin.svg.png" />][linkedin]
+
+
+[linkedin]: https://www.linkedin.com/in/daniel-garayan/
+
 
 
 
